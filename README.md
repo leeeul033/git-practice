@@ -1,7 +1,7 @@
 # [Project Overview] 👋
 
 ---
-## "PUBLIC MASK (Public Mask) "
+## "  PUBLIC MASK  "
 ---
 
 
@@ -10,7 +10,7 @@
 These days, video media such as YouTube and TikTok are very popular, there are many cases where passers-by are taken **recklessly.
 In particular, in the case of outdoor filming, there are many cases where ordinary citizens are not mosaic, resulting in a series of damage.**
 
-**In the end...**
+**Finally...**
 
 
 
